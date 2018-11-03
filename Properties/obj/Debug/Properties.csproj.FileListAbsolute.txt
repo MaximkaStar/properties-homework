@@ -1,0 +1,14 @@
+C:\Users\Стасися\source\repos\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\Стасися\source\repos\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\Стасися\source\repos\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\Стасися\source\repos\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+C:\Users\Стасися\source\repos\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Стасися\source\repos\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\Стасися\source\repos\Properties\Properties\obj\Debug\Properties.pdb
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\bin\Debug\Properties.exe
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\bin\Debug\Properties.pdb
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\obj\Debug\Properties.exe
+C:\Users\Максим\Desktop\Новая папка\properties\Properties\obj\Debug\Properties.pdb
